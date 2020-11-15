@@ -1,23 +1,24 @@
 body{
-  background-color: olive;
+  background-color: rgb(60, 200, 235);
+  color: rgb(8, 45, 54);
 }
 fieldset {
-     border: 1px solid #781351;
+     border: 1px solid #1bbb50;
      margin:auto;
      padding: 0em, 0em, 0.4em, 0.8em;
      width: 310px;
    }
    fieldset label { 
      display     : block;
-     float       : left;
+     float       : right;
      font-weight : bold;
      margin-right: 0.5em;
      text-align  : left;
-     width       : 65px;
+     width       : 40px;
    }
    fieldset legend {
-      background: #ffa20c;
-      border: 1px solid #781351;
+      background: #640740;
+      border: 1px solid #2a53ac;
       color: #fff;  
       padding: 2px 2px 2px 2px;
    } 
